@@ -1,0 +1,1 @@
+This Streamlit app connects to a MySQL database and provides a simple user interface for viewing and inserting records into two example tables: `employees` and `departments`. It includes basic authentication, allows users to filter data using SQL queries, and uses SQLAlchemy for secure database operations.

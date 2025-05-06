@@ -1,0 +1,1 @@
+This Streamlit app fetches real-time COVID-19 statistics from the public `disease.sh` API and displays them for a user-selected country. It presents key metrics and visualizes the data using various charts (bar, line, area, pie) as well as a styled data table for easy analysis.

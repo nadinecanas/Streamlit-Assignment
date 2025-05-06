@@ -1,0 +1,1 @@
+This Streamlit app allows users to upload and interactively explore a CSV file. It displays a preview of the dataset (if it has at least 5 columns) and provides filtering options based on unique values from a selected column, making it useful for quick data inspection and analysis.

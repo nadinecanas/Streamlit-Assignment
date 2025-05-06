@@ -1,0 +1,1 @@
+This simple Streamlit app collects a user's name and age through a form and displays a personalized greeting along with a fun fact about how many years remain until they turn 100. It's an interactive demo that showcases basic input handling and conditional logic in a user-friendly interface.
